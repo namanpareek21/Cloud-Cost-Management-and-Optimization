@@ -1,1 +1,1 @@
-# cloud-cost-optimization
+# Automated Cloud Cost Management and Optimization 
